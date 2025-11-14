@@ -1,0 +1,17 @@
+C:\Users\kajuk\source\repos\ThemePark\bin\Debug\net10.0-windows\ThemePark.exe
+C:\Users\kajuk\source\repos\ThemePark\bin\Debug\net10.0-windows\ThemePark.deps.json
+C:\Users\kajuk\source\repos\ThemePark\bin\Debug\net10.0-windows\ThemePark.runtimeconfig.json
+C:\Users\kajuk\source\repos\ThemePark\bin\Debug\net10.0-windows\ThemePark.dll
+C:\Users\kajuk\source\repos\ThemePark\bin\Debug\net10.0-windows\ThemePark.pdb
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.FormMain.resources
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.csproj.GenerateResource.cache
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.AssemblyInfoInputs.cache
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.AssemblyInfo.cs
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.csproj.CoreCompileInputs.cache
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.dll
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\refint\ThemePark.dll
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.pdb
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.genruntimeconfig.cache
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ref\ThemePark.dll
+C:\Users\kajuk\source\repos\ThemePark\obj\Debug\net10.0-windows\ThemePark.Properties.Resources.resources
